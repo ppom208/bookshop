@@ -1,0 +1,12 @@
+.book-detail{
+    .row {
+        .image{
+           img{
+            object-fit: cover;
+            max-width: 100%;
+            border:1px solid black;
+           }
+        }
+    }
+}
+
